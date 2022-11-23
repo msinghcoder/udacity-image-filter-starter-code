@@ -21,16 +21,16 @@ The API to apply a filter to the image, will be available at the URL: http://loc
 To test you must pass an image URL, for example:
 
 ```
-http://localhost:8082/filteredimage?image_url=https://super.abril.com.br/wp-content/uploads/2019/04/gato_site.png
+http://localhost:8082/filteredimage?image_url=https://images.pexels.com/photos/162203/panthera-tigris-altaica-tiger-siberian-amurtiger-162203.jpeg
 ```
 
 Image before filter
 
-![cat](https://raw.githubusercontent.com/msmagnanijr/udacity-image-filter-starter-code/master/deployment_screenshots/gato_site.png) 
+![cat](https://github.com/msinghcoder/udacity-image-filter-starter-code/blob/master/deployment_screenshots/image_before_filter.jpeg) 
 
 Image after filter
 
-![cat-filter](https://raw.githubusercontent.com/msmagnanijr/udacity-image-filter-starter-code/master/deployment_screenshots/filteredimage.jpeg) 
+![cat-filter](https://github.com/msinghcoder/udacity-image-filter-starter-code/blob/master/deployment_screenshots/image_after_filter.jpeg) 
 
 
 ### AWS Elastic Beanstalk
